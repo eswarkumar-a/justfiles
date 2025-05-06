@@ -61,4 +61,4 @@ jobs:
           app-name: 'eswarkumar1'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_72B9A4A935B7407E8FC9B40AE29372C2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3E726C760BC2437DAA6BD5A6EA69F88E }}
